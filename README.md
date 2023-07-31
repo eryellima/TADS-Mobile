@@ -7,3 +7,12 @@ Já para a ativaida 3 precisavamos criar um aplicativo utilzando Flutter ou Andr
 > Flutter é um kit de desenvolvimento de interface de usuário, de código aberto, criado pela empresa Google em 2015, baseado na linguagem de programação Dart, que possibilita a criação de aplicativos compilados nativamente, para os sistemas operacionais Android, iOS, Windows, Mac, Linux, Fuchsia e Web.
 
 Observação: A persistencia de dados do aplicatiova está sendo feita com alguns pequenos detalhes ao qual preciso ajustar. Porém não foi concluído ainda a comunicação com a API externa.
+
+## Atividade 4 (Asteroide)
+Para a Atividade 4, era preciso apresentar um seminário de um framework para desenvolvimento de dispositivos mobile e se possivel desenvolver uma aplicação utilizando ele. Foi apresentado a ferramenta Corona SDK/Solar2D para o seminário e utilizei um dos tutoriais do Coronas SDK/Solar2d  para tentar desenvolver um pequeno jogo baseado no clássico Asteroid.
+
+> Solar2D é um kit de desenvolvimento de software multiplataforma gratuito e de código aberto originalmente desenvolvido pela Corona Labs Inc. e agora mantido por Vlad Shcherban.
+
+[Corona SDK/Solar2D](https://coronalabs.com/)
+
+Observação: O jogo ainda não está completo ao qual pretendo terminar futuramente.
